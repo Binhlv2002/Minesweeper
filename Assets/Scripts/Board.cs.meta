@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c59a0e9b047c188488c550dc1420c12f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileUnkown: {instanceID: 0}
+  - tileMine: {instanceID: 0}
+  - tileEmpty: {instanceID: 0}
+  - tileExploded: {instanceID: 0}
+  - tileFlag: {instanceID: 0}
+  - tileNum1: {fileID: 11400000, guid: a953969cd7cb3ef4584a2e0622b78d89, type: 2}
+  - tileNum2: {fileID: 11400000, guid: 0f69f267cffe5d54e8eda2ccb1bb6635, type: 2}
+  - tileNum3: {instanceID: 0}
+  - tileNum4: {instanceID: 0}
+  - tileNum5: {instanceID: 0}
+  - tileNum6: {instanceID: 0}
+  - tileNum7: {instanceID: 0}
+  - tileNum8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
